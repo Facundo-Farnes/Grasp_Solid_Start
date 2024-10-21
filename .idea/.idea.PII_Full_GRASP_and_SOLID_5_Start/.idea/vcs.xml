@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Game_of_Life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Desafio_Menu_1_Start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Full_GRASP_and_SOLID_5_Start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Git_Challenge_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Git_Challenge_I_Start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Herencia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Herencia_Ejercicio_Start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Logic_Gates_Start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Pipes_Filters_Start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_PosterObjectsClassesMessages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PII_TestDateFormat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RoleplayGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../desafio_menu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pii_2024_2_equipo1" vcs="Git" />
+  </component>
+</project>
